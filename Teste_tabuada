@@ -1,0 +1,211 @@
+<meta charset="UTF-8">
+
+<h1>Tabuada</h1>
+Neste programa iremos lhe mostrar a tabuada básica.
+
+<script>
+
+	alert("Seja bem vindo(a)"
+	alert("Esse programa pode conter erros.");
+
+    document.write("<h1>Tabuada do 1</h1>");
+
+	var numero = 1;
+
+	document.write(numero + " vezes 1 é igual a " + numero * 1);
+	document.write("<br>")
+	document.write(numero + " vezes 2 é igual a " + numero * 2);
+	document.write("<br>")
+	document.write(numero + " vezes 3 é igual a " + numero * 3);
+	document.write("<br>")
+	document.write(numero + " vezes 4 é igual a " + numero * 4);
+	document.write("<br>")
+	document.write(numero + " vezes 5 é igual a " + numero * 5);
+	document.write("<br>")
+	document.write(numero + " vezes 6 é igual a " + numero * 6);
+	document.write("<br>")
+	document.write(numero + " vezes 7 é igual a " + numero * 7);
+	document.write("<br>")
+	document.write(numero + " vezes 8 é igual a " + numero * 8);
+	document.write("<br>")
+	document.write(numero + " vezes 9 é igual a " + numero * 9);
+	document.write("<br>");
+	document.write("<h1>Tabuada do 2</h1>");
+
+	numero = 2;
+
+	document.write(numero + " vezes 1 é igual a " + numero * 1);
+	document.write("<br>")
+	document.write(numero + " vezes 2 é igual a " + numero * 2);
+	document.write("<br>")
+	document.write(numero + " vezes 3 é igual a " + numero * 3);
+	document.write("<br>")
+	document.write(numero + " vezes 4 é igual a " + numero * 4);
+	document.write("<br>")
+	document.write(numero + " vezes 5 é igual a " + numero * 5);
+	document.write("<br>")
+	document.write(numero + " vezes 6 é igual a " + numero * 6);
+	document.write("<br>")
+	document.write(numero + " vezes 7 é igual a " + numero * 7);
+	document.write("<br>")
+	document.write(numero + " vezes 8 é igual a " + numero * 8);
+	document.write("<br>")
+	document.write(numero + " vezes 9 é igual a " + numero * 9);
+	document.write("<br>");
+	document.write("<h1>Tabuada do 3</h1>");
+
+	numero = 3;
+
+	document.write(numero + " vezes 1 é igual a " + numero * 1);
+	document.write("<br>")
+	document.write(numero + " vezes 2 é igual a " + numero * 2);
+	document.write("<br>")
+	document.write(numero + " vezes 3 é igual a " + numero * 3);
+	document.write("<br>")
+	document.write(numero + " vezes 4 é igual a " + numero * 4);
+	document.write("<br>")
+	document.write(numero + " vezes 5 é igual a " + numero * 5);
+	document.write("<br>")
+	document.write(numero + " vezes 6 é igual a " + numero * 6);
+	document.write("<br>")
+	document.write(numero + " vezes 7 é igual a " + numero * 7);
+	document.write("<br>")
+	document.write(numero + " vezes 8 é igual a " + numero * 8);
+	document.write("<br>")
+	document.write(numero + " vezes 9 é igual a " + numero * 9);
+	document.write("<br>");
+	document.write("<h1>Tabuada do 4</h1>");
+
+	numero = 4;
+
+	document.write(numero + " vezes 1 é igual a " + numero * 1);
+	document.write("<br>")
+	document.write(numero + " vezes 2 é igual a " + numero * 2);
+	document.write("<br>")
+	document.write(numero + " vezes 3 é igual a " + numero * 3);
+	document.write("<br>")
+	document.write(numero + " vezes 4 é igual a " + numero * 4);
+	document.write("<br>")
+	document.write(numero + " vezes 5 é igual a " + numero * 5);
+	document.write("<br>")
+	document.write(numero + " vezes 6 é igual a " + numero * 6);
+	document.write("<br>")
+	document.write(numero + " vezes 7 é igual a " + numero * 7);
+	document.write("<br>")
+	document.write(numero + " vezes 8 é igual a " + numero * 8);
+	document.write("<br>")
+	document.write(numero + " vezes 9 é igual a " + numero * 9);
+	document.write("<br>");
+	document.write("<h1>Tabuada do 5</h1>");
+
+	numero = 5;
+
+	document.write(numero + " vezes 1 é igual a " + numero * 1);
+	document.write("<br>")
+	document.write(numero + " vezes 2 é igual a " + numero * 2);
+	document.write("<br>")
+	document.write(numero + " vezes 3 é igual a " + numero * 3);
+	document.write("<br>")
+	document.write(numero + " vezes 4 é igual a " + numero * 4);
+	document.write("<br>")
+	document.write(numero + " vezes 5 é igual a " + numero * 5);
+	document.write("<br>")
+	document.write(numero + " vezes 6 é igual a " + numero * 6);
+	document.write("<br>")
+	document.write(numero + " vezes 7 é igual a " + numero * 7);
+	document.write("<br>")
+	document.write(numero + " vezes 8 é igual a " + numero * 8);
+	document.write("<br>")
+	document.write(numero + " vezes 9 é igual a " + numero * 9);
+	document.write("<br>");
+	document.write("<h1>Tabuada do 6</h1>");
+
+	numero = 6;
+
+	document.write(numero + " vezes 1 é igual a " + numero * 1);
+	document.write("<br>")
+	document.write(numero + " vezes 2 é igual a " + numero * 2);
+	document.write("<br>")
+	document.write(numero + " vezes 3 é igual a " + numero * 3);
+	document.write("<br>")
+	document.write(numero + " vezes 4 é igual a " + numero * 4);
+	document.write("<br>")
+	document.write(numero + " vezes 5 é igual a " + numero * 5);
+	document.write("<br>")
+	document.write(numero + " vezes 6 é igual a " + numero * 6);
+	document.write("<br>")
+	document.write(numero + " vezes 7 é igual a " + numero * 7);
+	document.write("<br>")
+	document.write(numero + " vezes 8 é igual a " + numero * 8);
+	document.write("<br>")
+	document.write(numero + " vezes 9 é igual a " + numero * 9);
+	document.write("<br>");
+	document.write("<h1>Tabuada do 7</h1>");
+
+	numero = 7;
+
+	document.write(numero + " vezes 1 é igual a " + numero * 1);
+	document.write("<br>")
+	document.write(numero + " vezes 2 é igual a " + numero * 2);
+	document.write("<br>")
+	document.write(numero + " vezes 3 é igual a " + numero * 3);
+	document.write("<br>")
+	document.write(numero + " vezes 4 é igual a " + numero * 4);
+	document.write("<br>")
+	document.write(numero + " vezes 5 é igual a " + numero * 5);
+	document.write("<br>")
+	document.write(numero + " vezes 6 é igual a " + numero * 6);
+	document.write("<br>")
+	document.write(numero + " vezes 7 é igual a " + numero * 7);
+	document.write("<br>")
+	document.write(numero + " vezes 8 é igual a " + numero * 8);
+	document.write("<br>")
+	document.write(numero + " vezes 9 é igual a " + numero * 9);
+	document.write("<br>");
+	document.write("<h1>Tabuada do 8</h1>");
+
+	numero = 8;
+
+	document.write(numero + " vezes 1 é igual a " + numero * 1);
+	document.write("<br>")
+	document.write(numero + " vezes 2 é igual a " + numero * 2);
+	document.write("<br>")
+	document.write(numero + " vezes 3 é igual a " + numero * 3);
+	document.write("<br>")
+	document.write(numero + " vezes 4 é igual a " + numero * 4);
+	document.write("<br>")
+	document.write(numero + " vezes 5 é igual a " + numero * 5);
+	document.write("<br>")
+	document.write(numero + " vezes 6 é igual a " + numero * 6);
+	document.write("<br>")
+	document.write(numero + " vezes 7 é igual a " + numero * 7);
+	document.write("<br>")
+	document.write(numero + " vezes 8 é igual a " + numero * 8);
+	document.write("<br>")
+	document.write(numero + " vezes 9 é igual a " + numero * 9);
+	document.write("<br>");
+	document.write("<h1>Tabuada do 9</h1>");
+
+	numero = 9;
+
+	document.write(numero + " vezes 1 é igual a " + numero * 1);
+	document.write("<br>")
+	document.write(numero + " vezes 2 é igual a " + numero * 2);
+	document.write("<br>")
+	document.write(numero + " vezes 3 é igual a " + numero * 3);
+	document.write("<br>")
+	document.write(numero + " vezes 4 é igual a " + numero * 4);
+	document.write("<br>")
+	document.write(numero + " vezes 5 é igual a " + numero * 5);
+	document.write("<br>")
+	document.write(numero + " vezes 6 é igual a " + numero * 6);
+	document.write("<br>")
+	document.write(numero + " vezes 7 é igual a " + numero * 7);
+	document.write("<br>")
+	document.write(numero + " vezes 8 é igual a " + numero * 8);
+	document.write("<br>")
+	document.write(numero + " vezes 9 é igual a " + numero * 9);
+	
+</script>
+
+
